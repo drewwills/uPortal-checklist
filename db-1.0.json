@@ -189,6 +189,25 @@
             "version": null,
             "watchers": null,
             "voters": null
+        },
+        {
+            "assignee": null,
+            "component": null,
+            "content": "Ordinarly a good way to install your logo is to replace the portal-logo portlet (Simple CMS) with a new portlet (e.g. 'huskeynet-logo') based on Simple JSP.",
+            "content_updated_on": "2014-07-01T00:00:00.000000+00:00",
+            "created_on": "2014-07-01T00:00:00.000000+00:00",
+            "edited_on": null,
+            "id": 11,
+            "kind": "task",
+            "milestone": null,
+            "priority": "major",
+            "reporter": null,
+            "status": "new",
+            "title": "Add your logo",
+            "updated_on": "2014-07-01T00:00:00.000000+00:00",
+            "version": null,
+            "watchers": null,
+            "voters": null
         }
     ],
     "comments": [],
